@@ -1,0 +1,1 @@
+The Real-Time Code Editor with Team Collaboration is a web-based application that enables developers to write, edit, and debug code collaboratively in real time. This tool is perfect for teams working on shared projects, conducting code reviews, or learning to code together.
